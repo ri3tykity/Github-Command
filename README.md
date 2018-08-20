@@ -1,6 +1,12 @@
 # Github-Command
 This repository contains daily uses github console commands
 
+
+<dl>
+  <dt>Clone repository</dt>
+</dl>
+`$ git clone "https://repository url"`
+
 <dl>
   <dt>Configure git</dt>
 </dl>
@@ -31,3 +37,9 @@ This repository contains daily uses github console commands
   </dl>
 
   `$ git add "filename or wild card"`
+  
+   <dl>
+    <dt>Commit changes</dt>
+  </dl>
+  
+  `$ git commit -m "Enter your message here"`
